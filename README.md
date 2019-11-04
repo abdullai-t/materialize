@@ -1,2 +1,2 @@
-# materialize
- materialize setup for beginners
+A simple materialize setup for beginners.
+ 
